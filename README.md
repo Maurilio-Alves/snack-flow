@@ -45,4 +45,6 @@ Bash
 python interface.py
 
 📝 Licença
-Este projeto foi desenvolvido para fins de gestão comercial e portfólio. Desenvolvido por Maurilio.
+
+Este projeto foi desenvolvido para fins de gestão <img width="2559" height="1542" alt="clientes" src="https://github.com/user-attachments/assets/84155af8-ba66-4a08-bb08-9b24d3dd819a" />
+comercial e portfólio. Desenvolvido por Maurilio.
